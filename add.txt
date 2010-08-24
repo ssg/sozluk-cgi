@@ -1,0 +1,4 @@
+<meta http-equiv="refresh" content="1;URL=/cgi-bin/view.exe?%queryword">
+<body bgcolor="#BABA74" text="black" link="#800000" vlink="#800000" alink="#800000">
+<font face="Verdana" size="4"><center>%msg - Paniklemeyin biraz sonra her$ey duzelecek.</center></font>
+

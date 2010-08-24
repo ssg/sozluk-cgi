@@ -1,0 +1,26 @@
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9">
+<body bgcolor="#BABA74" text="black" link="#800000" vlink="#800000">
+<font face="Verdana" Size="-1">
+<p align="left">
+<h1><u>%word</u></h1><br><ol>
+
+<li>%desc<p align="right">(%nick %date)</p>
+
+</ol><hr color="#808040">bu konuda eklemek isteyeceginiz herhangi bir$ey olabilir neden 
+olmasin.. o zaman ekleyin daha ne.. eger $ifreniz yoksa <a href="mailto:edi@sourtimes.org">edi</a>
+ 'ye icinde "abi benim nickim $u $ifresi $u" diye mail yollayin o ekler sizi de..<br>
+
+<center>
+<form action="/cgi-bin/add.exe" method="post">
+<input type="hidden" name="word" value="%word">
+<table border=0>
+<tr valign=top><td align=right><font face="Verdana" size=-1>nick'iniz</td><td><input type="text" name="nick" maxlength=20 size=20></td></tr>
+<tr valign=top><td align=right><font face="Verdana" size=-1>$ifresi</td><td><input type="password" name="password" maxlength=20 size=20></td></tr>
+<tr valign=top><td align=right><font face="Verdana" size=-1>bildikleriniz</td><td><textarea name="desc" cols=60 rows=10 wrap></textarea></td></tr>
+<tr valign=top><td></td><td><input type="image" border=0 src="/yolbut.gif" width=50 height=21 alt="yolla"></td></tr>
+</table>
+</form>
+<br>
+<br>
+<a href="/eksi.html">[ yepyeni bi$iiler ekle ]</a>    <a href="/" target="_top">[ ana sayfaya d&ouml;n ]</a>
+
