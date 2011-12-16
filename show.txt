@@ -6,7 +6,7 @@
 
 <li>%desc<p align="right">(%nick %date)</p>
 
-</ol><hr color="#808040">bu konuda eklemek isteyeceginiz herhangi bir$ey olabilir neden 
+</ol><hr color="#808040">bu konuda eklemek isteyeceginiz herhangi bir$ey olabilir neden
 olmasin.. o zaman ekleyin daha ne.. eger $ifreniz yoksa <a href="mailto:edi@sourtimes.org">edi</a>
  'ye icinde "abi benim nickim $u $ifresi $u" diye mail yollayin o ekler sizi de..<br>
 

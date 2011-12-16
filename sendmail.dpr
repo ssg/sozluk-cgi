@@ -65,7 +65,7 @@ begin
          'X-Mailer: SourTimes Atraksiyonlu CGI Mail Gondericisi v0.1 - (c) SSG ''99'#13#10+
          #13#10+mBody+#13#10#13#10+'.'#13#10);
     doit(#13#10'QUIT');
-    
+
     closesocket(mysock);
 
   end;
@@ -79,4 +79,4 @@ begin
     writeln(s);
   end;
   CloseFile(F);
-end.                                  
+end.
