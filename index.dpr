@@ -93,7 +93,7 @@ begin
   except
     ssg := Now;
   end;
-  
+
   if FileExists(dictFile) then begin
     AssignFile(I,dictFile);
     Reset(I);

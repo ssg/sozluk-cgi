@@ -202,7 +202,7 @@ var
   c:char;
 begin
   value := 0;
-  t := 0;      
+  t := 0;
   for n:=length(s) downto 1 do begin
     c := upcase(s[n]);
     case c of
