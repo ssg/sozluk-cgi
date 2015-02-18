@@ -1,0 +1,21 @@
+<meta name="generator" content="ek$i engine by SSG '99">
+<body bgcolor="#BABA74" text="black" link="#800000" vlink="#800000" alink="#800000">
+<font face="Verdana" Size="-1">
+<form action="/cgi-bin/index.exe" method="GET">
+<table border=0 align=center>
+<tr valign=center><td><font face="Verdana" Size="-1">icerik</td><td><input name="search" type="text" maxlength=40 size=15></td></tr>
+<tr valign=center><td><font face="Verdana" Size="-1">yazar</td><td><input name="author" type="text" maxlength=40 size=15></td></tr>
+<tr valign=center><td><font face="Verdana" Size="-1">$u g&uuml;nden</td><td><input name="date" type="text" maxlength=10 size=10></td></tr>
+<tr valign=center><td><font face="Verdana" Size="-1">$u g&uuml;ne</td><td><input name="todate" type="text" maxlength=10 size=10></td></tr>
+<tr valign=center><td></td><td><input type="image" border=0 src="/arabut.gif" width=50 height=21 alt="ara"></td></tr>
+</table>
+</form>
+%index<hr color=#808040><ul>
+
+<li><a href="/cgi-bin/view.exe?%search" target="main"><font color="%linkcolor">%word</font></a>&nbsp;%num<br>
+
+</ul><hr color=#808040>
+<center>toplam %totalwords ba$lik ve
+bunlarin iclerini de katarsak eeeoo yakla$ik sanirim %totalentries tane de kayit.</center><center>favori yazariniza gore arama yapmak isterseniz: (&ouml;rn. clairvoyant, selami sahintepesi)</center>
+<hr color=#808040><p align="center"><a href="/eksi.html" target="main">[ yeni bi$iiler ekle ]</a><br><br>
+<a href="/" target="_top">[ ana sayfaya d&ouml;n ]</a></p>
