@@ -154,8 +154,6 @@ begin
   Reset(I);
   repeat
     Readln(I,s);
-    s := Replace(s,'%totalwords',IntToStr(totalwords));
-    s := Replace(s,'%totalentries',IntToStr(totalentries));
     writeln(Replace(s,'%index',indexstr));
   until s = '';
   Readln(I,templine);
@@ -176,6 +174,8 @@ begin
 
   repeat
     Readln(I,s);
+    s := Replace(s,'%totalwords',IntToStr(totalwords));
+    s := Replace(s,'%totalentries',IntToStr(totalentries));
     writeln(s);
   until Eof(I);
   CloseFile(I);
